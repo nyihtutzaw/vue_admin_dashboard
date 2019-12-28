@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+%header-shared {
+    color:black;
+    font-family: 'Quicksand', sans-serif;
+    font-size:33px;
+}
+
+%primary-button {
+    background-color: #388E3C !important;
+    color:white !important;
+    font-family: 'Quicksand', sans-serif;
+    border-radius: 12px;
+
+    &:hover 
+    {
+        
+        transition:1s;
+        font-size:15px;
+        cursor: pointer;
+    }
+
+}
+
+%add_icon-button
+{
+    background:#388E3C;
+    padding:5px;
+    border-radius:100%;
+    color:white;
+
+    &:hover 
+    {
+        border:0.5px solid white;
+        transition:1s;
+        font-size:25px;
+        cursor: pointer;
+    }
+
+}
+
+%icon-button
+{
+    background:#388E3C;
+    padding:5px;
+    border-radius:100%;
+    color:white;
+
+
+
+}
+
+
