@@ -1,4 +1,4 @@
-# mgkyaungthar_frontend
+# vue admin dashboard
 
 ## Project setup
 ```
